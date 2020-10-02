@@ -1,0 +1,1 @@
+<?= 'Hellor user!, kamu pasti tahu jika flag nya sudah pasti bukan disini, kenapa tidak mencoba admin? :p' ?>
