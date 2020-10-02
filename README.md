@@ -1,5 +1,5 @@
 <h1 align="center">UICTC UICTC Capture The Flag</h1>
-<h3 align="center">UICTC Capture The Flag adalah sarana bagi siapapun yang ingin mempelajari mengenai CTF</h3>
+<h3 align="center">Belajar Hacking Dengan Lebih Menyenangkan !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uictc" alt="uictc" /> </p>
 
